@@ -1,7 +1,7 @@
 # 📊 Fraud Detection in Mobile Money Transactions
 *A Machine Learning Approach using the PaySim Dataset*
 
-![Fraud Detection Banner](images/fraud_banner.png)
+Fraud Cases are very difficult to find and practise on, as they remain highly confidential. There are some datasets on Kaggle, Paysim dataset is one of them. 
 
 ## 📌 Overview
 This project compares **six machine learning classifiers** for detecting fraudulent mobile money transactions, using the **synthetic PaySim dataset**.  
